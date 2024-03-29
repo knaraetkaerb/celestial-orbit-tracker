@@ -1,0 +1,39 @@
+{
+  "name": "celestial-orbit-tracker",
+  "version": "1.0.0",
+  "description": "Provides a platform for patient management and telehealth services, enhancing healthcare delivery with digital tools and remote access.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/celestial-orbit-tracker"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "delta-spirit-encoder": "1.0.0",
+    "ephemeral-mist-creator": "1.0.0",
+    "react": "1.0.0",
+    "body-parser": "1.0.0",
+    "xml2js": "1.0.0",
+    "fs-extra": "1.0.0",
+    "eslint": "1.0.0",
+    "commander": "1.0.0",
+    "mysql": "1.0.0",
+    "bcrypt": "1.0.0",
+    "debug": "1.0.0",
+    "truffle": "1.0.0",
+    "jquery": "1.0.0",
+    "enzyme": "1.0.0",
+    "async": "1.0.0",
+    "dotenv": "1.0.0",
+    "ejs": "1.0.0",
+    "chalk": "1.0.0",
+    "jest": "1.0.0",
+    "web3": "1.0.0"
+  }
+}
